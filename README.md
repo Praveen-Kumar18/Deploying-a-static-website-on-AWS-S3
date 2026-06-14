@@ -63,4 +63,4 @@ This project illustrates the process of deploying a static website using AWS S3,
 * Enable HTTPS using **Amazon CloudFront** and SSL certificates.
 * Automate deployment using **GitHub Actions** or AWS CI/CD services.
 * Implement versioning and lifecycle policies for better management.
-*
+
